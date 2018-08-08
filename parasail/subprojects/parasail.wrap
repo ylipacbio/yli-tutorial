@@ -1,0 +1,4 @@
+[wrap-git]
+directory=parasail
+url=https://github.com/jeffdaily/parasail
+revision=master

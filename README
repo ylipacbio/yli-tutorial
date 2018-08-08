@@ -1,0 +1,8 @@
+# yli's bioinformatics tutorial for herself
+Include bioinformatics tool usages and tutorials (e.g., bash, Python, meson, parasail).
+
+## parasail:
+A simple c++ tutorial project which uses parasail to align sequences, print alignment traceback
+and print cigar strings. This project uses meson to create build, and ninja to compile executables.
+
+- Type `cd parasail && make` to build, compile and run.
